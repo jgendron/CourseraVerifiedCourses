@@ -21,7 +21,7 @@ Curation of links to:
 
 [Model Thinking, *University of Michigan*](https://www.coursera.org/account/accomplishments/records/m9euTESr2x7ccVpa)
 
-* Gamification, *University of Pennsylvania-Wharton*
+Gamification, *University of Pennsylvania-Wharton*
 
 #### Marketing, Entrepreneurship, and Competitive Strategy
 
@@ -29,7 +29,7 @@ Curation of links to:
 
 [An Introduction to Marketing, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/fgdtDAkrrGQgGbeF)
 
-* Competitive Strategy, *Ludwig-Maximilians-Univ München*
+Competitive Strategy, *Ludwig-Maximilians-Univ München*
 
 #### Genomics
 
@@ -45,8 +45,8 @@ Curation of links to:
 
 [Cluster Analysis in Data Mining, *Univ of Illinois at Urbana-Champaign*](https://www.coursera.org/account/accomplishments/records/xV8yJHMW2dzgwqqE)
 
-* Machine Learning, *Stanford University*
-* Social and Economic Network: Models and Analysis, *Standford University*
-* Data Analysis and Statistical Inference, *Duke University*
+Machine Learning, *Stanford University*
+Social and Economic Network: Models and Analysis, *Standford University*
+Data Analysis and Statistical Inference, *Duke University*
 
 ------
