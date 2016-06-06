@@ -4,6 +4,7 @@ Curation of links to:
 
 * 20 Coursera Verified Certificates
 * 5 Coursera Certificates
+
 ---------
 
 #### Data Science Specialization Certificate
