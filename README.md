@@ -17,11 +17,17 @@ Curation of links to:
 
 [Operations Analytics, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/TE3JD3XRFUDP)
 
-#### Marketing and Entrepreneurship
+#### Gamification - Design Thinking
+
+* Gamification, *University of Pennsylvania-Wharton*
+
+#### Marketing, Entrepreneurship, and Competitive Strategy
 
 [Developing Innovative Ideas for New Companies:The First Step in Entrepreneurship, *University of Maryland, College Park*](https://www.coursera.org/account/accomplishments/records/Dhju9svD7BCem6fQ)
 
 [An Introduction to Marketing, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/fgdtDAkrrGQgGbeF)
+
+* Competitive Strategy, *Ludwig-Maximilians-Univ München*
 
 #### Genomics
 
@@ -31,7 +37,7 @@ Curation of links to:
 
 [Genomic Data Science with Galaxy, *Johns Hopkins University*](https://www.coursera.org/account/accomplishments/records/7X2ndyGSnhGYZNYq)
 
-#### Data Science: Process Mining, Cluster Analysis, and Model Thinking
+#### Data Science: Process Mining, Cluster Analysis, Model Thinking, Machine Learning, and Network Analysis
 
 [Process Mining: Data science in Action, *Eindhoven University of Technology*](https://www.coursera.org/account/accomplishments/records/p5T5GqBh4Dj5ebVx)
 
@@ -39,12 +45,8 @@ Curation of links to:
 
 [Model Thinking, *University of Michigan*](https://www.coursera.org/account/accomplishments/records/m9euTESr2x7ccVpa)
 
-------
-
-*Have completed other non-verifed courses including*
-
 * Machine Learning, *Stanford University*
 * Social and Economic Network: Models and Analysis, *Standford University*
 * Data Analysis and Statistical Inference, *Duke University*
-* Gamification, *University of Pennsylvania-Wharton*
-* Competitive Strategy, *Ludwig-Maximilians-Univ München*
+
+------
