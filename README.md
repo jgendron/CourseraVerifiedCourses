@@ -17,7 +17,9 @@ Curation of links to:
 
 [Operations Analytics, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/TE3JD3XRFUDP)
 
-#### Gamification - Design Thinking
+#### Model Thinking, and Gamification (Design Thinking and Motivation)
+
+[Model Thinking, *University of Michigan*](https://www.coursera.org/account/accomplishments/records/m9euTESr2x7ccVpa)
 
 * Gamification, *University of Pennsylvania-Wharton*
 
@@ -37,13 +39,11 @@ Curation of links to:
 
 [Genomic Data Science with Galaxy, *Johns Hopkins University*](https://www.coursera.org/account/accomplishments/records/7X2ndyGSnhGYZNYq)
 
-#### Data Science: Process Mining, Cluster Analysis, Model Thinking, Machine Learning, and Network Analysis
+#### Data Science: Process Mining, Cluster Analysis, Machine Learning, and Network Analysis
 
 [Process Mining: Data science in Action, *Eindhoven University of Technology*](https://www.coursera.org/account/accomplishments/records/p5T5GqBh4Dj5ebVx)
 
 [Cluster Analysis in Data Mining, *Univ of Illinois at Urbana-Champaign*](https://www.coursera.org/account/accomplishments/records/xV8yJHMW2dzgwqqE)
-
-[Model Thinking, *University of Michigan*](https://www.coursera.org/account/accomplishments/records/m9euTESr2x7ccVpa)
 
 * Machine Learning, *Stanford University*
 * Social and Economic Network: Models and Analysis, *Standford University*
