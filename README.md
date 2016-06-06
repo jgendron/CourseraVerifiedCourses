@@ -13,15 +13,15 @@ Curation of links to:
 
 #### Business Analytics Specialization
 
-[Customer Analytics, *UPenn Wharton*](https://www.coursera.org/account/accomplishments/records/VTRHNQ69DRLM)
+[Customer Analytics, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/VTRHNQ69DRLM)
 
-[Operations Analytics, *UPenn Wharton*](https://www.coursera.org/account/accomplishments/records/TE3JD3XRFUDP)
+[Operations Analytics, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/TE3JD3XRFUDP)
 
 #### Marketing and Entrepreneurship
 
 [Developing Innovative Ideas for New Companies:The First Step in Entrepreneurship, *University of Maryland, College Park*](https://www.coursera.org/account/accomplishments/records/Dhju9svD7BCem6fQ)
 
-[An Introduction to Marketing, *University of Pennsylvania*](https://www.coursera.org/account/accomplishments/records/fgdtDAkrrGQgGbeF)
+[An Introduction to Marketing, *University of Pennsylvania-Wharton*](https://www.coursera.org/account/accomplishments/records/fgdtDAkrrGQgGbeF)
 
 #### Genomics
 
@@ -46,5 +46,5 @@ Curation of links to:
 * Machine Learning, *Stanford University*
 * Social and Economic Network: Models and Analysis, *Standford University*
 * Data Analysis and Statistical Inference, *Duke University*
-* Gamification, *UPenn Wharton*
+* Gamification, *University of Pennsylvania-Wharton*
 * Competitive Strategy, *Ludwig-Maximilians-Univ München*
