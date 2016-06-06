@@ -46,7 +46,9 @@ Competitive Strategy, *Ludwig-Maximilians-Univ München*
 [Cluster Analysis in Data Mining, *Univ of Illinois at Urbana-Champaign*](https://www.coursera.org/account/accomplishments/records/xV8yJHMW2dzgwqqE)
 
 Machine Learning, *Stanford University*
+
 Social and Economic Network: Models and Analysis, *Standford University*
+
 Data Analysis and Statistical Inference, *Duke University*
 
 ------
